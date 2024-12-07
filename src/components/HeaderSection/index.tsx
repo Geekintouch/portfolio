@@ -44,14 +44,14 @@ function HeaderSection() {
           <AppButton
               ariaLabel="Send email"
               buttonType="primary"
-              onClick={() => window.location.href = 'mailto:sg2466@njit.edu'}
+              onClick={() => window.location.href = 'mailto:shyamkiran0831@gmail.com'}
               buttonText="Contact Me"
             />
             <AppButton
               ariaLabel=""
               buttonType="secondary"
               onClick={() => {
-                window.open("https://drive.google.com/file/d/1QuKGNK2mKx2fSzzFU20K6Z9SoRApxLOh/view?usp=share_link", '_blank');
+                window.open("https://drive.google.com/file/d/15j5-fnJLwbGows8jwmAJMumaubBYlqpT/view?usp=share_link", '_blank');
               }}
               buttonText="See My Resume"
             />
@@ -63,7 +63,7 @@ function HeaderSection() {
       alt="Shyam's Avatar Image"
       src={"/images/new-avatar.png"}
       fill
-      loading={"lazy"}
+      // loading={"lazy"}
       className="bg-backgroundColor-day dark:bg-backgroundColor-night"
     />
   </div>

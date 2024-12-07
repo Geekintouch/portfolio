@@ -18,7 +18,7 @@ const contactInfoArr = [
   {
     id: "mail",
     icon: MailLogo,
-    url: "mailto:sg2466@njit.edu",
+    url: "mailto:shyamkiran0831@gmail.com",
   }
 ];
 
