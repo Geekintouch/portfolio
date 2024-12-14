@@ -8,12 +8,12 @@ const contactInfoArr = [
   {
     id: "github",
     icon: GithubLogo,
-    url: "https://github.com/Geekintouch",
+    url: "https://github.com/geekintouch",
   },
   {
     id: "linkedIn",
     icon: LinkedInLogo,
-    url: "https://www.linkedin.com/in/shyamk10/",
+    url: "https://www.linkedin.com/in/gshyamkiran/",
   },
   {
     id: "mail",

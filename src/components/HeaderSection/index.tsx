@@ -63,7 +63,7 @@ function HeaderSection() {
       alt="Shyam's Avatar Image"
       src={"/images/new-avatar.png"}
       fill
-      // loading={"lazy"}
+      loading={"lazy"}
       className="bg-backgroundColor-day dark:bg-backgroundColor-night"
     />
   </div>
