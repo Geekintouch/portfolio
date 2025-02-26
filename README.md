@@ -1,2 +1,2 @@
-# My Portifolio
+# My Portfolio
 updatetilldec24
